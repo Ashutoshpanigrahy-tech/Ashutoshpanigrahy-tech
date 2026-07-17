@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ashutosh Panigrahy
-**A passionate Computer Science undergraduate and aspiring full-stack developer focused on building intelligent, user-centric applications.**<br>
+**A passionate Computer Science Graduate and aspiring full-stack developer focused on building intelligent, user-centric applications.**<br>
 <br>**✉ Email Me:** panigrahyashutosh234@gmail.com for collaborations, internships, or tech discussions 😊<br>
 - 🔭 **I’m currently working on:** AI-Based Disease Prediction System & Full-Stack Web Projects<br>
 - 🌱 **I’m currently learning:** Full-Stack Development<br>
